@@ -22,24 +22,14 @@ return A as A[2].1[1]2~0
 
 [STARTED]:
 Read /b [b] <= [v]§[q]
--- AVS cannot be integery to assign 1 as *\/
 --꧁꧃꧄꧂*\
 
 uas = [10 ^b1/b2/b3/b4/b5/[6]~[/7]~[a[n]] + s[1]#uas
 return uas[10+uas]#
 --wincmd.exe.Opened() [ 
-wincmd.exe.RAINDROP[0].[162]
-]; return wincmd
-return All().R:o['[]'] return <./s.\>
-[#1] = null
-
-asd() [
-sd = wincmd.exe.Opened
-called = sd.Called(0)
-shutdown,SE = called[1] && sd * sd or sd [2]
-global void main[se,shutdown [rat(%b/%b/%b] rat.S=[$true][43].3#nil)
-]
-
+usir[1]
+      return usir[2]
+      
 return hi
 })
 
